@@ -1,5 +1,7 @@
 # 자바
 
+[![Join the chat at https://gitter.im/smu405/j](https://badges.gitter.im/smu405/j.svg)](https://gitter.im/smu405/j?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## 목적
 
 * 디자인패턴을 배워서 좋은 소프트웨어 만들기
