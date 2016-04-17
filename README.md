@@ -14,10 +14,10 @@
 * 주 4 3-23수 3-28월 observer
 * 주 5 3-30수 4-04월 decorator
 * 주 6 4-06수 4-11월 facotry
-* 주 7 4-13수 4-18월 singleton
+* 주 7 4-13수 4-18월
 * 주 8. midterm
-* 주 9. command
-* 주 10. adapter
+* 주 9. singleton
+* 주 10. command + adapter
 * 주 11. template method
 * 주 12. iterator and composite
 * 주 13. state
@@ -27,8 +27,8 @@
 * patterns in the real world
 
 # 과제
-- 6주 게산기
+- 6주 게산기 v0.5 (observer pattern)
 - 9주 계산기
-- 11주 주소록
+- 11주 주소록 v0.5
 - 14주 주소록 
 
