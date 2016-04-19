@@ -2,6 +2,10 @@
 
 [![Join the chat at https://gitter.im/smu405/j](https://badges.gitter.im/smu405/j.svg)](https://gitter.im/smu405/j?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+## 공지
+
+20160420: 중간고사일시 20160427 (20160420수요일 정상 수업합니다.)
+
 ## 목적
 
 * 디자인패턴을 배워서 좋은 소프트웨어 만들기
@@ -28,7 +32,7 @@
 
 # 과제
 - 6주 게산기 v0.5 (observer pattern)
-- 9주 계산기
+- 9주 계산기 v1.0
 - 11주 주소록 v0.5
-- 14주 주소록 
+- 14주 주소록 v1.0
 
