@@ -18,15 +18,15 @@
 * 주 4 3-23수 3-28월 observer
 * 주 5 3-30수 4-04월 decorator
 * 주 6 4-06수 4-11월 facotry
-* 주 7 4-13수 4-18월
-* 주 8. midterm
-* 주 9. singleton
-* 주 10. command + adapter
-* 주 11. template method
-* 주 12. iterator and composite
-* 주 13. state
-* 주 14. proxy
-* 주 15. final
+* 주 7 4-13수 4-18월 singleton (4-20 정상수업)
+* 주 8. midterm (4-27)
+* 주 9. 5-02월 command  
+* 주 10 5-04수 5-09월 command + adapter
+* 주 11 5-11수 5-16월 template method
+* 주 12 5-18수 5-23월 iterator and composite
+* 주 13 5-25수 5-30월 state
+* 주 14 6-01수 6-08수 proxy (6-06월 공휴일)
+* 주 15 6-15수 final
 * compound
 * patterns in the real world
 
@@ -35,4 +35,5 @@
 - 9주 계산기 v1.0
 - 11주 주소록 v0.5
 - 14주 주소록 v1.0
+
 
