@@ -22,7 +22,7 @@
 * 주 8. midterm (4-27)
 * 주 9. 5-02월 command  
 * 주 10 5-04수 5-09월 command + adapter
-* 주 11 5-11수 5-16월 template method
+* 주 11 5-11수 5-16월 facade + template method
 * 주 12 5-18수 5-23월 iterator and composite
 * 주 13 5-25수 5-30월 state
 * 주 14 6-01수 6-08수 proxy (6-06월 공휴일)
