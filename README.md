@@ -4,37 +4,35 @@
 
 ## 공지
 
-20160601: 기말고사일시 20160615 수요일 g416
-20160420: 중간고사일시 20160427 (20160420수요일 정상 수업합니다.)
-
 ## 목적
 
-* 디자인패턴을 배워서 좋은 소프트웨어 만들기
+* 객체지향 자바프로그램을 배운다.
 
 ## 주별 강의
 
-* 주 1 3-02수 3-07월 Intro
-* 주 2 3-09수 3-14월 Design Principle
-* 주 3 3-16수 3-21월 strategy (sort)
-* 주 4 3-23수 3-28월 observer
-* 주 5 3-30수 4-04월 decorator
-* 주 6 4-06수 4-11월 facotry
-* 주 7 4-13수 4-18월 singleton (4-20 정상수업)
-* 주 8. midterm (4-27)
-* 주 9. 5-02월 command  
-* 주 10 5-04수 5-09월 command + adapter
-* 주 11 5-11수 5-16월 facade + template method
-* 주 12 5-18수 5-23월 iterator and composite
-* 주 13 5-25수 5-30월 state
-* 주 14 6-01수 6-08수 proxy (6-06월 공휴일)
-* 주 15 6-15수 final
-* compound
-* patterns in the real world
+* 주 1:  9-05월  9-07수 Hello Java
+* 주 2:  9-12월  9-14수 Class, Objects 시작. 9-14추석
+* 주 3:  9-19월  9-21수 
+* 주 4:  9-26월  9-28수 Package
+* 주 5: 10-03월 10-05수 Control Structure 10-03개천절
+* 주 6: 10-10월 10-12수 Data Structure
+* 주 7: 10-17월 10-19수 Class revisted
+* 주 8: 10-24월 10-26수 midterm
+* 주 9: 10-31월 11-02수 inheritance
+* 주10: 11-07월 11-09수 polymorphism
+* 주11: 11-14월 11-16수 gui
+* 주12: 11-21월 11-23수 
+* 주13: 11-28월 11-30수 io
+* 주14: 12-05월 12-07수 exception
+* 주15: 12-19월 12-21수 final
 
 # 과제
-- 6주 게산기 v0.5 (observer pattern)
-- 9주 계산기 v1.0
-- 11주 주소록 v0.5
-- 14주 주소록 v1.0
+* 클래스 5개 이상. LOC 300줄 이상.
+* 상속, 다형성 사용.
+* 파일 사용
+* GUI 사용
+- 7주 게임
+- 14주 GUI
 
+# 시험
 
