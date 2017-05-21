@@ -23,14 +23,15 @@
 주 4 | 3-27월 3-29수 | observer
 주 5 | 4-03월 4-05수 | decorator
 주 6 | 4-10월 4-12수 | facotry
-주 7 | 4-17월 4-19수 | singleton
+주 7 | 4-17월 4-19수 | factory
 주 8 | 4-24월 | midterm
-주 9 | 5-01월 5-03수 | command (5-03수 공휴일)
-주 10 | 5-08월 5-10수 | command + adapter
-주 11 | 5-15월 5-17수 | facade + template method
+주 9 | 5-01월 5-03수 | singleton (5-03수 공휴일)
+주 10 | 5-08월 5-10수 | command
+주 11 | 5-15월 5-17수 | adaptor, facade + template method
 주 12 | 5-22월 5-24수 | iterator and composite
-주 13 | 5-29월 5-31수 | state
-주 14 | 6-05월 6-07수 | proxy (6-06화 공휴일)
+주 13 | 5-29월 5-31수 | dao
+주 14 | 6-05월 6-07수 | state (6-06화 공휴일)
+보강 | 6-12월 6-14수 | proxy 발표
 주 15 | 6-19월 | final
 * compound
 * patterns in the real world
