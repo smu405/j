@@ -8,21 +8,21 @@
 
 ## 주별 강의
 
-* 주 1:  3-06화  3-07수 1 Hello Java
-* 주 2:  3-13화  3-14수 2 Class, Objects 시작
-* 주 3:  3-20화  3-21수 3 Variables, Operators
-* 주 4:  3-27화  3-28수 4 Methods
-* 주 5:  4-03화  4-04수 5 Package 
-* 주 6:  4-10화  4-11수
-* 주 7:  4-17화  4-18수 6 Control Structure
-* 주 8:  4-24화  4-25수 midterm
-* 주 9:  5-01화  5-02수 
-* 주10:  5-08화  5-09수 7 Data Structure (Class revisted)
-* 주11:  5-15화  5-16수 
-* 주12:  5-22화  5-23수 8 inheritance polymorphism (5-22 석가탄신일)
-* 주13:  5-29화  5-30수 9 gui streams
-* 주14:  6-05화  6-06수 10 io exception (6-6 현충일)
-* 주15:  6-19화  6-20수 final
+* 주 1:  3-05화  3-07목 1 Hello Java
+* 주 2:  3-12화  3-14목 2 Class, Objects 시작
+* 주 3:  3-19화  3-21목 3 Variables, Operators
+* 주 4:  3-26화  3-28목 4 Methods
+* 주 5:  4-02화  4-04목 5 Package 
+* 주 6:  4-09화  4-11목
+* 주 7:  4-16화  4-18목 6 Control Structure
+* 주 8:  4-23화  4-25목 midterm
+* 주 9:  4-30화  5-02목 
+* 주10:  5-07화  5-09목 7 Data Structure (Class revisted)
+* 주11:  5-14화  5-16목 
+* 주12:  5-21화  5-23목 8 inheritance polymorphism (5-22 석가탄신일)
+* 주13:  5-28화  5-30목 9 gui streams
+* 주14:  6-04화  6-06목 10 io exception (6-6 현충일)
+* 주15:  6-18화  6-20목 final
 * 추가 Collection Generics Thread NW
 
 # 과제
@@ -35,7 +35,7 @@
 
 # 시험
 
-
+---
 1. Hello Java
 1.1 학습내용
 1.1.1 강의 목표
